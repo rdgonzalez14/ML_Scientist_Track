@@ -1,0 +1,6 @@
+Modelo,Train_Score,Test_Score,Params,P_corte
+XGBoost_Base,0.9423929098966028,0.8481012658227848,"OrderedDict([('classifier__colsample_bytree', 0.65), ('classifier__learning_rate', 0.25), ('classifier__max_depth', 4), ('classifier__n_estimators', 50), ('classifier__reg_alpha', 1.0)])",0.4
+XGBoost_Base,0.9233082706766916,0.8481012658227848,"OrderedDict([('classifier__colsample_bytree', 0.65), ('classifier__learning_rate', 0.14201146453201052), ('classifier__max_depth', 4), ('classifier__n_estimators', 50), ('classifier__reg_alpha', 0.1)])",0.45
+XGBoost_Base,0.9200603318250378,0.8333333333333333,"OrderedDict([('classifier__colsample_bytree', 0.65), ('classifier__learning_rate', 0.1884195839992631), ('classifier__max_depth', 4), ('classifier__n_estimators', 45), ('classifier__reg_alpha', 1.0)])",0.5
+XGBoost_Base,0.9327354260089686,0.8481012658227848,"OrderedDict([('classifier__colsample_bytree', 0.65), ('classifier__learning_rate', 0.21225314561505565), ('classifier__max_depth', 4), ('classifier__n_estimators', 50), ('classifier__reg_alpha', 1.0)])",0.55
+XGBoost_Base,0.936936936936937,0.8387096774193549,"OrderedDict([('classifier__colsample_bytree', 0.65), ('classifier__learning_rate', 0.2352848356418546), ('classifier__max_depth', 4), ('classifier__n_estimators', 50), ('classifier__reg_alpha', 0.1)])",0.6
